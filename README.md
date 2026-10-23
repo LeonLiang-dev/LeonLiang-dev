@@ -10,7 +10,8 @@
 ## 🚀 关于我
 - 🔭 正在开发 **LeonOpsAI**
 - 🌱 目前学习 **Go / Vite / Docker**
-- 📫 联系我：`你的邮箱或主页`
+- 📫 联系我：`leonscoder@gmail.com`
+- 🛜  Blog： `https://nemotion.cn`
 
 ---
 
